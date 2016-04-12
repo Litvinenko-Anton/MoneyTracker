@@ -13,6 +13,8 @@ import java.util.List;
  * Created by i7 on 04.02.2016. 02-45
  */
 public class TransactionsAdapter extends ArrayAdapter<Transactions> {
+
+    //02-82
     public TransactionsAdapter(Context context, List<Transactions> transactionses) {
         super(context, 0, transactionses);
     }

@@ -3,4 +3,7 @@
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <dimen name="fab_margin">16dp</dimen>
+    <dimen name="textSizeSum">16dp</dimen>
+    <dimen name="textSizeTitle">16dp</dimen>
+    <item name="dividerHeight" type="dimen">1dp</item>
 </resources>
