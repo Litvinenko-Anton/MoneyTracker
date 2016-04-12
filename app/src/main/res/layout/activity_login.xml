@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    style="@style/Container.DarkBackground"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="@dimen/padding_login_body">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/margin_logo"
+        android:src="@mipmap/ic_launcher"/>
+
+    <EditText
+        android:id="@+id/login"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/background"
+        android:hint="@string/enter_login"
+        android:maxLines="1"
+        android:padding="@dimen/padding_login_edit_text"
+        android:singleLine="true"/>
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_top_edit_text"
+        android:background="@color/background"
+        android:hint="@string/enter_password"
+        android:inputType="textPassword"
+        android:maxLines="1"
+        android:padding="@dimen/padding_login_edit_text"
+        android:singleLine="true"/>
+
+    <Button
+        android:id="@+id/ok"
+        style="@style/LoginButton"
+        android:layout_width="match_parent"
+        android:enabled="false"
+        android:text="@string/action_sign_in"/>
+
+    <Button
+        android:id="@+id/register"
+        style="@style/RegisterButton"
+        android:layout_width="match_parent"
+        android:enabled="false"
+        android:text="@string/action_register"/>
+</LinearLayout>

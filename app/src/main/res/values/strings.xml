@@ -1,6 +1,54 @@
 <resources>
-    <string name="app_name">Money Tracker</string>
-    <string name="action_settings">Settings</string>
-    <string name="title">Title</string>
-    <string name="sum">Sum</string>
+    <string name="app_name">MoneyTracker</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="settings">Настройки</string>
+    <string name="status_msg">status</string>
+    <string name="title">title</string>
+    <string name="sum">sum</string>
+    <string name="date">date</string>
+    <string name="transactions_title">Траты</string>
+    <string name="categories_title">Категории</string>
+    <string name="statistics_title">Статистика</string>
+    <string name="statistics_text">Здесь будет статистика</string>
+    <string name="categories_text">Категории</string>
+
+    <string name="add_transaction">Добавить трату</string>
+    <string name="hint_date">Сегодня</string>
+    <string name="title_date">Дата</string>
+    <string name="category_hint">Выберите категорию</string>
+    <string name="category_text">Категория</string>
+    <string name="category_text_hint">Еда</string>
+    <string name="about_hint">Война и мир</string>
+    <string name="about_text">Примечание</string>
+    <string name="sum_hint">300</string>
+    <string name="sum_text">Сумма</string>
+    <string name="add">Добавить</string>
+
+    <string name="title_activity_login">Войти</string>
+
+    <!-- Strings related to login -->
+    <string name="enter_login">Логин</string>
+    <string name="enter_password">Пароль</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_register">Зарегистрироваться</string>
+    <string name="action_sign_in_short">Войти</string>
+
+    <string name="error_incorrect_password">Пароль не верный</string>
+    <string name="error_field_required">Обязательно для заполнения</string>
+    <string name="title_activity_logout">Выйти</string>
+    <string name="add_category">Добавить категорию</string>
+    <string name="you_need_to_add_category">Добавьте категорию</string>
+    <string name="search_hint">search</string>
+    <string name="menu_search">search</string>
+    <string name="success_auth">Вы авторизовались успешно</string>
+    <string name="error_login">Ошибка входа</string>
+    <string name="error_register">Ошибка регистрации</string>
+    <string name="success_register">Вы зарегистрировались успешно</string>
+    <string name="congratulations_register">Поздравляем. Вы успешно зарегистрировались.</string>
+    <string name="ok">OK</string>
+    <string name="add_category_hint">Одежда</string>
+    <string name="cancel">Отмена</string>
+    <string name="not_all_fields_are_filled">Не все поля заполнены.</string>
+    <string name="default_category_name">test</string>
 </resources>
