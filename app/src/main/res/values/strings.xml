@@ -19,7 +19,7 @@
     <string name="category_hint">Выберите категорию</string>
     <string name="category_text">Категория</string>
     <string name="category_text_hint">Еда</string>
-    <string name="about_hint">Война и мир</string>
+    <string name="about_hint">Покупки в магазине</string>
     <string name="about_text">Примечание</string>
     <string name="sum_hint">300</string>
     <string name="sum_text">Сумма</string>
@@ -47,7 +47,7 @@
     <string name="success_register">Вы зарегистрировались успешно</string>
     <string name="congratulations_register">Поздравляем. Вы успешно зарегистрировались.</string>
     <string name="ok">OK</string>
-    <string name="add_category_hint">Одежда</string>
+    <string name="add_category_hint">Введите название категории</string>
     <string name="cancel">Отмена</string>
     <string name="not_all_fields_are_filled">Не все поля заполнены.</string>
     <string name="default_category_name">test</string>
