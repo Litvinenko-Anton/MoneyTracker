@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    style="@style/Container.DarkBackground">
+    style="@style/Container.DarkBackground"
+    android:descendantFocusability="beforeDescendants"
+    android:focusableInTouchMode="true">
 
     <include layout="@layout/toolbar" />
 
