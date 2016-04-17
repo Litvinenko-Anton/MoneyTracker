@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <bitmap xmlns:android="http://schemas.android.com/apk/res/android"
-    android:src="@drawable/android_app_back_main"
-    android:gravity="bottom">
-</bitmap>
+    android:gravity="bottom"
+    android:src="@drawable/android_app_back_main"></bitmap>

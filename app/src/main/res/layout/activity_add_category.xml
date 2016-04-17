@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout
-    xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     style="@style/Container.DarkBackground">
 
-    <include layout="@layout/toolbar"/>
+    <include layout="@layout/toolbar" />
 
     <GridLayout
         android:layout_width="match_parent"
@@ -21,20 +20,20 @@
             android:layout_gravity="fill"
             android:gravity="left|center"
             android:text="@string/category_text"
-            android:textSize="@dimen/text_size_big"/>
+            android:textSize="@dimen/text_size_big" />
 
         <EditText
             android:id="@+id/title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:gravity="fill"
-            android:hint="@string/category_text_hint"/>
+            android:hint="@string/category_text_hint" />
 
         <Button
             android:id="@+id/add_category"
-            android:text="@string/add"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"/>
+            android:layout_height="wrap_content"
+            android:text="@string/add" />
 
     </GridLayout>
 
