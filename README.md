@@ -1,7 +1,10 @@
-# MoneyTracker - android application
-Track your finances to keep track of where your money is going. MoneyTracker is a complete money management.
-Feel free to get feedback about MoneyTracker.
+# MoneyTacker
+Worning! Send SMS not FREE. (This image and logo only)
 
-Author's notes: http://romanitalian.github.io/
+I tested on Android 4.1.2.
 
-Skype: romanitalian
+Background borrowed on www.shutterstock.com
+
+Example
+============
+<img src="https://github.com/Litvinenko-Anton/ListViewSendSMS/blob/master/ListViewSendSMS_GIF.gif"/>

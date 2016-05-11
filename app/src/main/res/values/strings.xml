@@ -24,8 +24,7 @@
     <string name="sum_hint">300</string>
     <string name="sum_text">Сумма</string>
     <string name="add">Добавить</string>
-
-    <string name="title_activity_login">Войти</string>
+    <string name="title_activity_login">Авторизоваться</string>
 
     <!-- Strings related to login -->
     <string name="enter_login">Логин</string>
